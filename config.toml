@@ -31,21 +31,21 @@ publishDir = "nhutrg1998.github.io"
   showRelatedPosts = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-[[Params.bigimg]]
-  src = "img/1.jpg"
+#[[Params.bigimg]]
+#  src = "img/1.jpg"
 #  desc = "Triangle"
-[[Params.bigimg]]
-  src = "img/2.jpg"
+#[[Params.bigimg]]
+#  src = "img/2.jpg"
 #  desc = "Sphere"
 #  # position: see values of CSS background-position.
 #  position = "center top"
 [[Params.bigimg]]
-  src = "img/3.jpg"
+  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 [[Params.bigimg]]
-  src = "img/4.jpg"
+  src = "img/triangle.jpg"
 [[Params.bigimg]]
-  src = "img/5.jpg"
+  src = "img/sphere.jpg"
 #[[Params.bigimg]]
 #  src = "img/6.jpg"
 #[[Params.bigimg]]
