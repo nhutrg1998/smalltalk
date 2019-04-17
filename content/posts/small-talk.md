@@ -3,6 +3,7 @@ title: "The Fine Art of SMALL TALK"
 description: "Debra Fine"
 date: 2019-04-11T15:13:19+07:00
 draft: false
+tags: ["Communication", "Verbal thinking", "Soft skills"]
 ---
 
 

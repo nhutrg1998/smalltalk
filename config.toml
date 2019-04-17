@@ -1,7 +1,66 @@
-baseURL = "https://nhutrg1998.github.io/"
-languageCode = "en-us"
+baseurl = "https://nhutrg1998.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
 title = "Lê Nhựt"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
-publishDir = "nhutrg1998.github.io"
-theme = "ananke"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Try not to become a man of success but rather try to become a man of value"
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
+  desc = "Hexagon"
+
+[Author]
+  name = "Lê Nhựt"
+  website = "nhutrg1998.github.com"
+  facebook = "LNhut98"
+  email = "nhutrg1998@gmail.com"
+  github = "nhutrg1998"
+  
+
+[[menu.main]]
+    name = "Blog"
+    url = "posts"
+    weight = 1
+
+#[[menu.main]]
+#    name = "About"
+#    url = "page/about/"
+#    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
