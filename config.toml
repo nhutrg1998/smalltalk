@@ -17,7 +17,7 @@ publishDir = "nhutrg1998.github.io"
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Try not to become a man of success but rather try to become a man of value"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/thumbnail_avt.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -32,25 +32,32 @@ publishDir = "nhutrg1998.github.io"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/triangle.jpg"
-  desc = "Triangle"
+  src = "img/1.jpg"
+#  desc = "Triangle"
 [[Params.bigimg]]
-  src = "img/sphere.jpg"
-  desc = "Sphere"
+  src = "img/2.jpg"
+#  desc = "Sphere"
 #  # position: see values of CSS background-position.
 #  position = "center top"
 [[Params.bigimg]]
-  src = "img/hexagon.jpg"
-  desc = "Hexagon"
+  src = "img/3.jpg"
+#  desc = "Hexagon"
+[[Params.bigimg]]
+  src = "img/4.jpg"
+[[Params.bigimg]]
+  src = "img/5.jpg"
+#[[Params.bigimg]]
+#  src = "img/6.jpg"
+#[[Params.bigimg]]
+#  src = "img/7.jpg"
 
 [Author]
   name = "Lê Nhựt"
-  website = "nhutrg1998.github.com"
+  website = "nhutrg1998.github.io"
   facebook = "LNhut98"
   email = "nhutrg1998@gmail.com"
   github = "nhutrg1998"
   
-
 [[menu.main]]
     name = "Blog"
     url = "posts"
