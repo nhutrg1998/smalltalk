@@ -3,29 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/small-talk/</loc>
-    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://nhutrg1998.github.io/tags/communication/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://nhutrg1998.github.io/</loc>
     <lastmod>2019-04-11T15:13:19+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nhutrg1998.github.io/posts/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/tags/soft-skills/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/tags/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/posts/small-talk/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/tags/verbal-thinking/</loc>
+    <lastmod>2019-04-11T15:13:19+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhutrg1998.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
